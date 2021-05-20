@@ -1,0 +1,30 @@
+::-webkit-file-upload-button {
+    color: white;
+    font-size: 15px;
+    width: 10em;
+    height: 3em;
+    font-family: monospace;
+    /* border-radius: 20px; */
+    background-color: black;
+}
+input[type="submit" i]{
+    color: white;
+    font-size: 15px;
+    width: 17em;
+    height: 3em;
+    font-family: monospace;
+    /* border-radius: 20px; */
+    background-color: black;
+}
+html {
+    background: black;
+}
+#prediction{
+    font-size: 20px;
+    font-family: monospace;
+    color: white;
+    text-align: center;
+}
+p{
+	text-align: center;
+}
